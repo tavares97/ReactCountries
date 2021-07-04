@@ -28,3 +28,7 @@ Built with:
 
 Built with materializecss framework
 Open [Materialize Docs](https://materializecss.com) to check their page.
+
+This project was given during a IEFP (Portuguese Governament Formation Center) course. 
+The goal was to create an APP that would show countries inside a wanted region via dropdown.
+Mostly used to implement Redux and learn about it. 
